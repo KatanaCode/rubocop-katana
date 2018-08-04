@@ -11,6 +11,7 @@ Rails:
 
 AllCops:
   UseCache: true
+  CacheRootDirectory: tmp/rubocop
   DisplayCopNames: true
   DisplayStyleGuide: true
   TargetRubyVersion: 2.5
