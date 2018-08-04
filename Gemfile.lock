@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rubocop-katana (0.1.0)
+    rubocop-katana (0.1.1)
       rubocop (~> 0.54)
       rubocop-rails (~> 1.1)
       rubocop-rspec (~> 1.25)
