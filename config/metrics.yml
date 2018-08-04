@@ -1,8 +1,0 @@
-Metrics/LineLength:
-  Max: 90
-  Exclude:
-    - 'spec/spec_helper.rb'
-
-Metrics/BlockLength:
-  Exclude:
-    - 'spec/**/*'
