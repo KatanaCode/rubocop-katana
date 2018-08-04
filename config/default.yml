@@ -3,11 +3,11 @@ inherit_gem:
     - config/rails.yml
 
 inherit_from:
-  - config/allcops.yml
-  - config/lint.yml
-  - config/style.yml
-  - config/metrics.yml
-  - config/layout.yml
+  - allcops.yml
+  - lint.yml
+  - style.yml
+  - metrics.yml
+  - layout.yml
 
 Rails:
   Enabled: true
