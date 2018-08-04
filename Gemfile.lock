@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rubocop-katana (0.1.1)
+    rubocop-katana (0.1.2)
       rubocop (~> 0.54)
       rubocop-rails (~> 1.1)
       rubocop-rspec (~> 1.25)
@@ -34,7 +34,7 @@ GEM
     erubi (1.7.1)
     i18n (1.0.1)
       concurrent-ruby (~> 1.0)
-    jaro_winkler (1.5.1)
+    jaro_winkler (1.5.1-x86_64-darwin-17)
     loofah (2.2.2)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
