@@ -1,6 +1,6 @@
 inherit_gem:
   rubocop-rails:
-    - config/rails.yml
+    - config/default.yml
 
 inherit_from:
   - ./allcops.yml
